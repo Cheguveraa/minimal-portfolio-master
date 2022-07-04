@@ -1,4 +1,4 @@
-Directory Structure
+Directory Structure BALAJI
 -------------------
 css\              - Stylesheets CSS files for the template.
 images\           - Images used in template.
